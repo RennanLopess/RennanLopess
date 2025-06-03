@@ -30,6 +30,9 @@ Tenho experiência em projetos variados — como **painéis administrativos**, *
 ### 📫 Vamos nos conectar!
 
 <p align="left">
+  <a href="https://rennanlopes.tech" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
   <a href="https://www.linkedin.com/in/rennan-rentz-954353319/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
